@@ -1,0 +1,127 @@
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\bin\Debug\WindowsApplication1.application
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.frmKhoidong.resources
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.frmMain.resources
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\VietHanITGaLa.csproj.GenerateResource.Cache
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.application
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\WindowsApplication1.exe
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\WindowsApplication1.pdb
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\VietHanITGala\bin\Debug\WindowsApplication1.exe.manifest
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\VietHanITGala\bin\Debug\WindowsApplication1.application
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\VietHanITGala\bin\Debug\WindowsApplication1.exe
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\VietHanITGala\bin\Debug\WindowsApplication1.pdb
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\ResolveAssemblyReference.cache
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\WindowsApplication1.frmKhoidong.resources
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\WindowsApplication1.frmMain.resources
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\VietHanITGaLa.csproj.GenerateResource.Cache
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\WindowsApplication1.exe.manifest
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\WindowsApplication1.application
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\WindowsApplication1.exe
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\WindowsApplication1.pdb
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\ResolveAssemblyReference.cache
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\VietHanITGaLa.csproj.GenerateResource.Cache
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\bin\Debug\WindowsApplication1.exe.manifest
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\bin\Debug\WindowsApplication1.application
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\bin\Debug\WindowsApplication1.exe
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\bin\Debug\WindowsApplication1.pdb
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\WindowsApplication1.exe.manifest
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\WindowsApplication1.application
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmChinh.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmHetgio.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmKhoidong.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\VietHanITGaLa.Properties.Resources.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmMain.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\GameShow_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmConfigServer.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\WindowsApplication1.exe
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\WindowsApplication1.pdb
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\WindowsApplication1.exe.manifest
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\WindowsApplication1.application
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\WindowsApplication1.exe
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\WindowsApplication1.pdb
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmChinh.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmConfigServer.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmHetgio.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmMain.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.Properties.Resources.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.csproj.GenerateResource.Cache
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\WindowsApplication1.exe.manifest
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\WindowsApplication1.application
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\WindowsApplication1.exe
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\WindowsApplication1.pdb
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\bin\Debug\WindowsApplication1.exe.manifest
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\bin\Debug\WindowsApplication1.application
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\bin\Debug\WindowsApplication1.exe
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\bin\Debug\WindowsApplication1.pdb
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\ResolveAssemblyReference.cache
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmChinh.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmConfigServer.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmHetgio.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmMain.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.Properties.Resources.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.csproj.GenerateResource.Cache
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\WindowsApplication1.exe.manifest
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\WindowsApplication1.application
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\Interop.WMPLib.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\AxInterop.WMPLib.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\Interop.WMPLib.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\AxInterop.WMPLib.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.csproj.ResolveComReference.cache
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\Interop.WMPLib.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\AxInterop.WMPLib.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.csproj.ResolveComReference.cache
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\bin\Debug\Interop.WMPLib.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\bin\Debug\AxInterop.WMPLib.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmBell.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmGoicauhoiKD.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmFinaly.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmFinally.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmFinally.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmGoicauhoiKD.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmKhoidong.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmTangtoc.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmVuotchuongngaivat.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\Interop.WMPLib.dll
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\AxInterop.WMPLib.dll
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.csproj.ResolveComReference.cache
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\WindowsApplication1.exe
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\WindowsApplication1.pdb
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\WindowsApplication1.exe.manifest
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\WindowsApplication1.application
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\WindowsApplication1.exe
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\WindowsApplication1.pdb
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\Interop.WMPLib.dll
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\bin\Debug\AxInterop.WMPLib.dll
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.csprojResolveAssemblyReference.cache
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmChinh.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmConfigServer.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmFinally.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmGoicauhoiKD.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmHetgio.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmKhoidong.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmMain.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmTangtoc.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.frmVuotchuongngaivat.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.Properties.Resources.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\VietHanITGaLa.csproj.GenerateResource.Cache
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\WindowsApplication1.exe.manifest
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_Server\VietHanITGala\obj\Debug\WindowsApplication1.application

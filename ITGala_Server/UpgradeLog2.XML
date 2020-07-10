@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VietHanITGaLa">
+</Property><Property Name="Solution File" Value="D:\Viet Han\IT GaLA\ChuongTrinh\New\ITGala_Server\VietHanITGaLa.sln">
+</Property><Property Name="Date" Value="Wednesday, October 19, 2011">
+</Property><Property Name="Time" Value="22:00 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="VietHanITGaLa" Source="VietHanITGala\VietHanITGaLa.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VietHanITGaLa" Source="VietHanITGala\VietHanITGaLa.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="VietHanITGaLa.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="VietHanITGaLa.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,13 @@
+D:\Viet Han\IT GaLA\ChuongTrinh\TestSound\TestSound\bin\Debug\TestSound.exe
+D:\Viet Han\IT GaLA\ChuongTrinh\TestSound\TestSound\bin\Debug\TestSound.pdb
+D:\Viet Han\IT GaLA\ChuongTrinh\TestSound\TestSound\obj\Debug\ResolveAssemblyReference.cache
+D:\Viet Han\IT GaLA\ChuongTrinh\TestSound\TestSound\obj\Debug\TestSound.Form1.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\TestSound\TestSound\obj\Debug\TestSound.Properties.Resources.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\TestSound\TestSound\obj\Debug\TestSound.csproj.GenerateResource.Cache
+D:\Viet Han\IT GaLA\ChuongTrinh\TestSound\TestSound\obj\Debug\TestSound.exe
+D:\Viet Han\IT GaLA\ChuongTrinh\TestSound\TestSound\obj\Debug\TestSound.pdb
+D:\Viet Han\IT GaLA\ChuongTrinh\TestSound\TestSound\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\TestSound\TestSound\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\TestSound\TestSound\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\TestSound\TestSound\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Viet Han\IT GaLA\ChuongTrinh\TestSound\TestSound\obj\Debug\TestSound.csproj.ResolveComReference.cache

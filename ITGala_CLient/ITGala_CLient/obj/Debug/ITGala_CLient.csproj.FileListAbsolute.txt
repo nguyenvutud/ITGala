@@ -1,0 +1,33 @@
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_CLient\ITGala_CLient\bin\Debug\ITGala_CLient.exe
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_CLient\ITGala_CLient\bin\Debug\ITGala_CLient.pdb
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.frmMain.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.Properties.Resources.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.csproj.GenerateResource.Cache
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.exe
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.pdb
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.frmPlayer.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.frmConfig.resources
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.frmThoigian.resources
+\\192.168.1.101\GalaITClient\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.exe
+\\192.168.1.101\GalaITClient\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.pdb
+\\192.168.1.101\GalaITClient\ITGala_CLient\ITGala_CLient\bin\Debug\ITGala_CLient.exe
+\\192.168.1.101\GalaITClient\ITGala_CLient\ITGala_CLient\bin\Debug\ITGala_CLient.pdb
+\\192.168.1.101\GalaITClient\ITGala_CLient\ITGala_CLient\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.1.101\GalaITClient\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.frmConfig.resources
+\\192.168.1.101\GalaITClient\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.frmMain.resources
+\\192.168.1.101\GalaITClient\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.frmPlayer.resources
+\\192.168.1.101\GalaITClient\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.frmThoigian.resources
+\\192.168.1.101\GalaITClient\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.Properties.Resources.resources
+\\192.168.1.101\GalaITClient\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.csproj.GenerateResource.Cache
+D:\Viet Han\IT GaLA\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.csprojResolveAssemblyReference.cache
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.exe
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.pdb
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_CLient\ITGala_CLient\bin\Debug\ITGala_CLient.exe
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_CLient\ITGala_CLient\bin\Debug\ITGala_CLient.pdb
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.csprojResolveAssemblyReference.cache
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.frmConfig.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.frmMain.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.frmPlayer.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.frmThoigian.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.Properties.Resources.resources
+D:\Viet Han\Gala IT\ChuongTrinh\ITGala_CLient\ITGala_CLient\obj\Debug\ITGala_CLient.csproj.GenerateResource.Cache

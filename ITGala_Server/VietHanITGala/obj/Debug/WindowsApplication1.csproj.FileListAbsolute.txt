@@ -1,0 +1,13 @@
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\bin\Debug\WindowsApplication1.application
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.application
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.frmKhoidong.resources
+D:\Viet Han\Do an LTM SV\Nhom5_gameshow\ChuongTrinh\GameShow_Server\WindowsApplication1\obj\Debug\WindowsApplication1.frmMain.resources
